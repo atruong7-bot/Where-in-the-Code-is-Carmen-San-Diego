@@ -1,0 +1,19 @@
+Player name: Blaise
+The computer’s current maintenance level: 40
+How many viruses the computer has: 0
+Computer parts available: 0
+Antivirus USB sticks available: 0
+VPNs available: 2
+CPUs available: 0
+GPUs available: 0
+Power Supply Units available: 0
+Computer Cases available: 0
+Internet cards available: 0
+Keyboard(s) and Mouse(s) available: 0
+Premade computer available: 0
+Internet provider level: 1
+Dogecoins available: 450
+Frustration level: 64
+Carmen’s progress: 0
+Hackers defeated: 1
+Got to server room 2

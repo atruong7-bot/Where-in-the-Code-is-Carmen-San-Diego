@@ -1,0 +1,8 @@
+A VPN costs 20 Dogecoins each. VPNs reduce your chances of getting hacked by
+preventing hackers from tracking down your main computer. The increase in security
+maxes out at 2 VPNs.
+
+Pick an option:
+
+1. A VPN costs 
+2. None/Quit

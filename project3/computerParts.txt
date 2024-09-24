@@ -1,0 +1,13 @@
+Best Buy recommends that the player should purchase at least 1 of each computer part in case your main computer breaks. 
+You can have a maximum of 3 of each computer part and 1 extra premade computer. These are the different parts:
+1. A CPU costs 10 Dogecoins
+2. A GPU costs 20 Dogecoins
+3. A Power Supply Unit costs 5 Dogecoins
+4. A Computer Case costs 15 Dogecoins
+5. An internet card costs 5 Dogecoins
+6. A keyboard and mouse costs 10 Dogecoins
+7. A premade computer costs 100 Dogecoins
+8. None/Quit
+Please select an option.
+
+dont use print file approach cuz of costs

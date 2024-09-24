@@ -1,0 +1,9 @@
+Having a better internet provider increases the player’s chances of winning a hacker battle.
+You can upgrade your internet provider at a later time if you desire.
+Please select an option.
+1. Internet provider level 2 costs 10 Dogecoins
+2. Internet provider level 3 costs 25 Dogecoins
+3. Internet provider level 4 costs 40 Dogecoins
+4. Internet provider level 5 costs 50 Dogecoins
+5. None/Quit
+
