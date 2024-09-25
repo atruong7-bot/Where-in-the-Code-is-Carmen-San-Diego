@@ -62,9 +62,11 @@ This is a C++ text-based adventure game inspired by the classic "Where in the Wo
 
 ## Requirements
 
-- 4+ user-defined classes (excluding the provided Map class).
-- A 2D map to navigate server rooms.
-- Interactive components including user input, battles, and resource management.
+- 4+ user-defined classes with appropriate methods and data members.
+- Use of a 2D map and at least 2 classes containing arrays or vectors of objects.
+- Implement 6+ if-else statements, 6+ loops (including 2+ nested loops), and file I/O for game stats.
+- Fully interactive game with player input, a menu, and a status update display each turn.
+
 
 ------------------------
 HOW TO COMPILE AND RUN
