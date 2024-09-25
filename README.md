@@ -77,5 +77,7 @@ Run: ./a.out
 
 <img width="567" alt="Screenshot 2024-09-25 at 4 25 20 PM" src="https://github.com/user-attachments/assets/dee1f69d-9c12-41b2-a075-7407b90c0f7b">
 <img width="274" alt="Screenshot 2024-09-25 at 4 24 43 PM" src="https://github.com/user-attachments/assets/2c55be03-16ce-4cdd-87aa-db5bbb1317c3">
+<img width="648" alt="Screenshot 2024-09-25 at 4 31 26 PM" src="https://github.com/user-attachments/assets/a2beee37-7e08-48bc-aa8d-0e596b865e2a">
+<img width="634" alt="Screenshot 2024-09-25 at 4 31 44 PM" src="https://github.com/user-attachments/assets/9f5705f4-91be-4f7d-92e6-e51a4022e938">
 
 
